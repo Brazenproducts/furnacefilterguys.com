@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://furnacefilterguys.com/sitemap.xml
